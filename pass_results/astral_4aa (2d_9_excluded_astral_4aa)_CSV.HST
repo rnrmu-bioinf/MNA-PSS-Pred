@@ -1,0 +1,17 @@
+"C:\Projects\2D protein structure\Comparisson\MSAS\CLMPASStoCSV.exe" astral_4aa.sdf /B2D_9_excluded_astral_4aa.msas /F"Secondary structure type"
+
+MSAR Base       :  c:\Projects\2D protein structure\Comparisson\MSAS\2d_9_excluded_astral_4aa.msas
+Cutting Point   :  Pa > Pi.
+Ident  Key      :  secondary structure type
+Input  File     :  c:\Projects\2D protein structure\Comparisson\MSAS\astral_4aa.sdf
+Output File     :  c:\Projects\2D protein structure\Comparisson\MSAS\astral_4aa (2d_9_excluded_astral_4aa).CSV
+Output Mode     :  
+
+  Begin         :  22.05.2024 17:55:27
+
+
+  End           :  22.05.2024 18:12:21
+
+  181428 of 181473 Substances are predicted.
+  Loading time   : 0:00:39.547
+  Prediction time: 0:16:54.225

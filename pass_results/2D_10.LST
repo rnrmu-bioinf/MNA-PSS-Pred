@@ -1,0 +1,28 @@
+  MSAR Base Information
+
+  MSAR\2D_10.MSAR
+  07.04.2024 19:24:18
+
+    10	 Level of MNA Descriptors 
+323352	 Substances 
+8388606	 Descriptors 
+     9	 Activity Types 
+     8	 Selected Activity Types 
+0,9011	 Average IAP
+
+ MSAR Base Validation
+
+  No	 Number	 IAP	 Activity Type
+    1	  52463	 0,8861	 -
+    2	 113174	 0,9024	 E
+    3	  10595	 0,8811	 G
+    4	 134847	 0,9260	 H
+    5	   4410	 0,8731	 I
+    6	   5437	 0,9269	 P
+    7	   8167	 0,9105	 S
+    8	  13349	 0,9025	 T
+
+Not Predictable Activity Types
+
+  No	 Activity Type
+    1	 B

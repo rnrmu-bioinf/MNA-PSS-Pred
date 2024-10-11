@@ -1,0 +1,17 @@
+"C:\Projects\2D protein structure\Comparisson\MSAS\CLMPASStoCSV.exe" cb513_filtered.sdf /B2D_9_excluded_cb513_filtered.MSAS /F"Secondary Structure"
+
+MSAR Base       :  c:\Projects\2D protein structure\Comparisson\MSAS\2d_9_excluded_cb513_filtered.msas
+Cutting Point   :  Pa > Pi.
+Ident  Key      :  secondary structure
+Input  File     :  c:\Projects\2D protein structure\Comparisson\MSAS\cb513_filtered.sdf
+Output File     :  c:\Projects\2D protein structure\Comparisson\MSAS\cb513_filtered (2d_9_excluded_cb513_filtered).CSV
+Output Mode     :  
+
+  Begin         :  22.05.2024 18:42:37
+
+
+  End           :  22.05.2024 18:43:13
+
+  7759 of 7760 Substances are predicted.
+  Loading time   : 0:00:42.828
+  Prediction time: 0:00:36.228

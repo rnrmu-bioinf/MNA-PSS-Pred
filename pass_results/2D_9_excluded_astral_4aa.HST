@@ -1,0 +1,93 @@
+Run of C:\Projects\2D protein structure\Comparisson\OLMPASSdoMNABase.exe Exclude.txt
+
+  MSAR Base is created 22.05.2024 15:49:08
+
+Data from c:\Projects\2D protein structure\Comparisson\final_training_0-2A_All_Types.sdf are added to MSAR Base.
+Activity Field  :  <Secondary Structure Type>
+
+  Begin         :  22.05.2024 15:49:17
+
+  End           :  22.05.2024 16:27:36
+
+Data from c:\Projects\2D protein structure\Comparisson\final_training_0-2A_All_Types.sdf were added to MSAR Base.
+  336275 of 336275 Substances were added to MSAR Base.
+  323355 new Substances were added to MSAR Base.
+  342447 new Activity Data were added to MSAR Base.
+
+  Adding new Data time: 0:38:15.228.
+Data c:\Projects\2D protein structure\Comparisson\astral_4aa.sdf are excluded from MSAR Base.
+
+  Begin         :  22.05.2024 16:27:48
+
+
+  End           :  22.05.2024 16:46:32
+
+Data c:\Projects\2D protein structure\Comparisson\astral_4aa.sdf were excluded from MSAR Base.
+  73993 of 181473 Substances were excluded from MSAR Base.
+  73993 Substances were excluded from MSAR Base.
+  85278 Activity Data were excluded from MSAR Base.
+  Excluding Data time: 0:18:45.456.
+
+
+  MSAR Base 2D_9_excluded_astral_4aa.MSAR training.
+9	 Level of MNA Descriptors 
+249362	 Substances 
+7247535	 Descriptors 
+9	 Activity Types 
+0	 Selected Activity Types 
+0,0000	 Average IAP
+
+  Begin         :  22.05.2024 16:46:35
+
+ No	Training	 Number	 IAP	 Activity Type
+  1	   Ok	    107167	 0,9293	H
+  2	   Ok	    81693	 0,8989	E
+  3	   Ok	    4915	 0,9127	S
+  4	   Ok	    8072	 0,8981	T
+  5	   Ok	    6779	 0,8758	G
+  6	   Ok	    3690	 0,9276	P
+  7	   Ok	    4309	 0,8827	I
+  8	   Ok	    40543	 0,8916	-
+
+  End           :  22.05.2024 16:50:04
+  Training MSAR Base time: 0:03:28.969.
+
+8	 Selected Activity Types 
+0,9021	 Average IAP
+
+
+  MSAR Base 2D_9_excluded_astral_4aa.MSAR validation.
+9	 Level of MNA Descriptors 
+249362	 Substances 
+7247535	 Descriptors 
+9	 Activity Types 
+8	 Selected Activity Types 
+0,9021	 Average IAP
+
+  Begin         :  22.05.2024 16:50:04
+
+  No	 Check	 Number	 IAP	 20-Fold	 Activity Type
+  1	 Ok    	 40543	 0,8916	 0,8912	 -
+  2	 Ok    	 81693	 0,8989	 0,8985	 E
+  3	 Ok    	 6779	 0,8758	 0,8752	 G
+  4	 Ok    	 107167	 0,9293	 0,9291	 H
+  5	 Ok    	 4309	 0,8827	 0,8819	 I
+  6	 Ok    	 3690	 0,9276	 0,9276	 P
+  7	 Ok    	 4915	 0,9127	 0,9121	 S
+  8	 Ok    	 8072	 0,8981	 0,8972	 T
+
+  End           :  22.05.2024 17:06:05
+  Validation MSAR Base time: 0:16:01.174.
+
+  8	 Selected Activity Types 
+  8	 Validated Activity Types 
+  8	 Successfully Validated Activity Types 
+  0,9021	 Average IAP
+  0,9016	 20-Fold Average IAP
+
+
+  MSAR Base is saved 22.05.2024 17:06:32
+
+  MSAS Base is saved 22.05.2024 17:45:58
+
+MSAR Base c:\Projects\2D protein structure\Comparisson\MSAS\2D_9_excluded_astral_4aa.MSAR is closed.  22.05.2024 17:46:00
